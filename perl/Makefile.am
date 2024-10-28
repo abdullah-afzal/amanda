@@ -106,7 +106,7 @@ SWIG_OPTIONS=-perl5 -proxy -DSWIG_TYPE_TABLE=SWIG_TYPES_Amanda -I$(srcdir)
 ###
 
 # PM_FILES should contain the .pm files from which the HTML should
-# be geneated.  This is just the concatenation of foo_DATA for all $(foodir)
+# be generated.  This is just the concatenation of foo_DATA for all $(foodir)
 # into which perl modules are installed.
 PM_FILES=
 
